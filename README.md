@@ -82,12 +82,16 @@ const engineer = {
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=issues"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johndoe&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johndoe&theme=tokyonight" height="150em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johndoe&theme=tokyonight" height="150em"/>
 
 <br/><br/>
 
-![](https://github-readme-streak-stats.herokuapp.com?user=johndoe&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![](https://komarev.com/ghpvc/?username=johndoe&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
 
 <br/>
 
