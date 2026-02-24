@@ -25,10 +25,10 @@
 ```javascript
 const engineer = {
   focus:      ["Full-Stack", "Systems", "Cloud", "DevOps"],
-  languages:  ["TypeScript", "Python", "Go", "Rust", "SQL", "Bash"],
+  languages:  ["TypeScript", "Python", "PHP", "SQL", "Bash"],
   frontend:   ["React", "Next.js", "Vue", "Web APIs", "Performance"],
   backend:    ["Node", "FastAPI", "REST", "GraphQL", "gRPC", "Auth"],
-  databases:  ["PostgreSQL", "MySQL", "Redis", "MongoDB", "ClickHouse"],
+  databases:  ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
   cloud:      ["AWS", "GCP", "Docker", "Kubernetes", "Terraform", "CI/CD"],
   systems:    ["Linux", "Nginx", "Networking", "Security", "Observability"],
   principle:  "Ship fast. Scale smart. Break nothing."
