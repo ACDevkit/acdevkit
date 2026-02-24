@@ -43,7 +43,7 @@ const engineer = {
 
 <div align="center">
 
-### ⚡ Stack at a Glance
+### Tech Stack
 
 <br/>
 
@@ -98,23 +98,3 @@ const engineer = {
 <br/>
 
 <div align="center">
-
-```
-I build systems end-to-end — from pixel to packet.
-```
-
-<br/>
-
-*From database schema to deployment pipeline,*
-*from REST endpoint to React component —*
-*the full stack is home.*
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-  <sub>📍 Open to interesting problems &nbsp;·&nbsp; 🤝 Open to collaboration</sub>
-</div>
